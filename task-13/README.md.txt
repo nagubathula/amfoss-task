@@ -1,0 +1,1 @@
+When you enter the range the servo motor rotates and hence the gate open then after some time the doors will automatically closes.
